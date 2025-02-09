@@ -1,0 +1,1 @@
+# Universal-Nextjs-Fastapi-template
